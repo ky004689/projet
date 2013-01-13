@@ -1,2 +1,2 @@
-==Don't read me
+==Read me
 Comp.Sci. (300) coursework
